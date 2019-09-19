@@ -50,11 +50,23 @@ After cleaning the data the selected feature is venue's name, location and categ
 
 
 
+## 3. Exploratory Data Analysis
 
+### 3.1  Venue location
+
+Identify venues location  on the map by taking the center of Kuala Lumpur as the main point.
+
+![venues](venues.png)
 
   
 
 
+
+## 4. Result
+
+After training the model using Kmeans algorithms, the model was able to cluster the venues into 15 different clustes.
+
+![clustered venues](clustered_venues.png)
 
 
 
