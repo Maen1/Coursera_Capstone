@@ -1,4 +1,4 @@
-# Categories Venues in Kuala Lumpur
+# Clustering Venues in Kuala Lumpur
 
 
 
@@ -64,7 +64,7 @@ Identify venues location  on the map by taking the center of Kuala Lumpur as the
 
 ## 4. Result
 
-After training the model using Kmeans algorithms, the model was able to cluster the venues into 15 different clustes.
+After training the model using Kmeans algorithms, the model was able to cluster the venues into 15 different clusters.
 
 ![clustered venues](clustered_venues.png)
 
